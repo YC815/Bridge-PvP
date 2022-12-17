@@ -1,0 +1,1 @@
+execute as @e[type=marker, tag=rp] at @s run execute as @a[team=blue, distance=..1] run 
